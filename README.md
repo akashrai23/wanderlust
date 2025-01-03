@@ -14,21 +14,21 @@ Key Features
 
 **Property Listing** – Hosts can list their properties with images, descriptions, and pricing.
 
-Tech Stack
+**Tech Stack**
 
-Frontend: HTML, CSS, JavaScript, React
+**Frontend**: HTML, CSS, JavaScript, React
 
-Backend: Node.js, Express.js
+**Backend**: Node.js, Express.js
 
-Database: MongoDB
+**Database**: MongoDB
 
-Installation
+**Installation**
 
-Clone the repository:
+**Clone the repository**:
 
 git clone https://github.com/username/wanderlust.git
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd wanderlust
 
@@ -48,17 +48,17 @@ npm run dev
 
 Open your browser and visit:
 
-http://localhost:3000
+http://localhost:8080
 
-Usage
+**Usage**
 
-Explore Stays – Search for vacation homes by location, price, and amenities.
+**Explore Stays** – Search for vacation homes by location, price, and amenities.
 
-Book – Securely book available properties.
+**Book** – Securely book available properties.
 
-Host – List your own properties for others to rent.
+**Host** – List your own properties for others to rent.
 
-Contributing
+**Contributing**
 
 Feel free to contribute by submitting issues or pull requests. All contributions are welcome!
 
